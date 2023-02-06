@@ -1,4 +1,4 @@
-const nodeModules = require("node-modules");
+const nodeModules = require('node-modules');
 
 const sayHi = (name) => {
     console.log(`hello there ${name}`);
