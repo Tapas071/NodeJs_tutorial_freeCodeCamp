@@ -1,0 +1,4 @@
+node has been install globally with a cmd npm i nodemon -g 
+
+upto - 5.42.00
+link - https://www.youtube.com/watch?v=Oe421EPjeBE
